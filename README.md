@@ -1,1 +1,3 @@
-# Webview for voting dapp project
+# Vote_chain 
+A Blockchain-based decentralised voting site.
+
